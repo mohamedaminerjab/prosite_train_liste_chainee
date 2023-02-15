@@ -3,6 +3,10 @@
 #include "train.h"
 int main()
 {
-    Wagon wagon;
+
+    listeChainee liste = NULL; // déclaration et initialisation de la liste
+    parcourir(liste);
+    liste= ajouter_locomotive();
+    parcourir(liste);
     return 0;
 }
