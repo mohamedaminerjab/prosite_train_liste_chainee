@@ -1,13 +1,13 @@
 # depslib dependency file v1.0
-1676493221 source:c:\users\bouthaina\documents\prosite_train_liste_chainee\main.c
+1676931311 source:c:\users\bouthaina\documents\prosite_train_liste_chainee\main.c
 	<stdio.h>
 	<stdlib.h>
 	"train.h"
 
-1676493245 c:\users\bouthaina\documents\prosite_train_liste_chainee\train.h
+1676930669 c:\users\bouthaina\documents\prosite_train_liste_chainee\train.h
 	<stdio.h>
 	<stdlib.h>
 
-1676481857 source:c:\users\bouthaina\documents\prosite_train_liste_chainee\train.c
+1676930188 source:c:\users\bouthaina\documents\prosite_train_liste_chainee\train.c
 	"train.h"
 

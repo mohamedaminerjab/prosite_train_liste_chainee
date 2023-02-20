@@ -22,6 +22,8 @@ typedef struct Cellule * listeChainee;
 
 listeChainee ajouter_locomotive();
 void parcourir(listeChainee l);
+listeChainee ajouter_Fin(listeChainee l, Wagon wagon);
+int chercher_wagon(listeChainee l,int num_wagon);
 
 #endif // TRAIN_H_INCLUDED
 
